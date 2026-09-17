@@ -6,8 +6,7 @@ A free Physics Olympiad preparation resource for students preparing for the **Ba
 
 ### 📖 Book
 
-**[Download the Physics Olympiad Category C Theory Book](./BdPhO_Category_C_Theory.pdf)**
-
+**[Download the Physics Olympiad Category C Theory Book](../../releases/latest)**
 The book is provided free of charge for educational purposes.
 
 ### About
